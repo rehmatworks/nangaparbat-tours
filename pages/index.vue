@@ -1,23 +1,14 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>Nanga Parbat Tours</h1>
       <p>
-        Hi 👋! This template gives you a
-        <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
-        <a href="https://www.netlify.com/products/functions/"
-          >Netlify Functions</a
-        >, <a href="https://www.netlify.com/products/forms/">Forms</a>, and
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
+        Hi 👋! Are you interested in visiting the killer mountain? Book a tour with us and you will never regret it.
       </p>
 
       <p>
-        You can find the code for this project on GitHub at
-        <a href="https://github.com/netlify-templates/nuxt-toolbox"
-          >https://github.com/netlify-templates/nuxt-toolbox</a
-        >! Happy coding!
+        With our expert tour guides, you will enjoy the each and every moment of your adventure. Get closer to nature and spend some of your life's
+        best moments.
       </p>
     </div>
     <FeedbackForm />
